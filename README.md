@@ -1,4 +1,4 @@
 node-stanford-corenlp
 =====================
 
-Node.js based JSON-RPC library for Stanford's CoreNLP suite
+Node.js based JSON-RPC server for Stanford's CoreNLP suite
